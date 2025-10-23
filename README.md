@@ -1,6 +1,6 @@
 # 👋 Hi, We're CoBuild Space
 
-🚀 **Senior Software Consultant** | Angular Expert | Front-end Designer | REST API Designer 
+🚀 **Software Consultants** | Angular Expert | Front-end Designer | REST API Designer 
 
 We specialize in building high-performing web applications using **Angular and Spring boot**, with clean architecture and scalable designs.  
 We love crafting user-focused solutions, improving performance, and delivering products that just *work*.
