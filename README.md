@@ -21,7 +21,7 @@ We love crafting user-focused solutions, improving performance, and delivering p
 
 ### 🛠️ Tech Stack
 **Frontend:** Angular, TypeScript, RxJS, PrimeNG, HTML5, SCSS  
-**Backend:** Java, Springboot
+**Backend:** Java, Springboot  
 **Database:** Postgres  
 **Tools:** Docker, GitHub Actions, Postman, VS Code  
 
